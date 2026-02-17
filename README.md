@@ -1,5 +1,3 @@
-# data-visualization-projects
-
 # Data Visualization Projects
 
 This repository contains two independent data visualization and exploratory data analysis (EDA) projects implemented in Python using Jupyter Notebook.
